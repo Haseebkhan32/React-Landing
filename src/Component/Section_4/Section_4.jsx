@@ -5,7 +5,7 @@ import ServiceCard from './ServiceCard'
 
 const Section_4 = () => {
   return (
-    <div className='w-6xl m-auto'>
+    <div className='w-6xl m-auto py-36'>
         <Bg_Black_Btn/>
         <Section_4_heading/>
         <ServiceCard/>

@@ -9,7 +9,7 @@ import Section_4 from './Component/Section_4/Section_4'
 const App = () => {
   return (
     <div className="bg-[url('/public/Home_Img.jpg')]">
-      <div className=" pt-8 bg-black/80">
+      <div className=" pt-8 bg-black/8m0">
         <Navbar />
         <Section_2 />
         <Section_3 />

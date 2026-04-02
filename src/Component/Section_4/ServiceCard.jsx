@@ -5,7 +5,7 @@ import ServiceCard_Btn from "./ServiceCard_Btn";
 const ServiceCard = () => {
 
     return (
-        <div className='flex gap-2   '>
+        <div className='flex gap-2  my-8 '>
             <div className='w-full p-2 text-white shadow-[inset_0px_0px_30px_rgba(255,255,255,0.06)] bg-[#1e1e1e74] border border-white/20 rounded-[10px]' >
                 <div className="bg-black/50 p-4 rounded-[10px] ">
                     <div className="">icon</div>
